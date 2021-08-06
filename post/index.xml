@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on ALBIN P BENNY</title>
+    <link>https://albin7debug.github.io/albin_protfolio/post/</link>
+    <description>Recent content in Projects on ALBIN P BENNY</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://albin7debug.github.io/albin_protfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Analyzing Suicide Clusters</title>
+      <link>https://albin7debug.github.io/albin_protfolio/post/project-5/</link>
+      <pubDate>Tue, 03 Aug 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://albin7debug.github.io/albin_protfolio/post/project-5/</guid>
+      <description>Iam going to perform Data Analysis and examine trends &amp;amp; correlations within our data. I would like to make a Machine Learning algorithm where we can train our AI to learn &amp;amp; improve from experience. Thus, I would want to predict the amount of suicides numbers in a certain demographic.   Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Customer Segmentation</title>
+      <link>https://albin7debug.github.io/albin_protfolio/post/project-3/</link>
+      <pubDate>Mon, 10 May 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://albin7debug.github.io/albin_protfolio/post/project-3/</guid>
+      <description>Customer Segmentation is the subdivision of a market into discrete customer groups that share similar characteristics. Customer Segmentation can be a powerful means to identify unsatisfied customer needs. Using the data companies can then outperform the competition by developing uniquely appealing products and services.
+Task - You are owing a supermarket mall and through membership cards, you have some basic data about your customers like Customer ID, age, gender, annual income and spending score.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Loan Eligibility Prediction</title>
+      <link>https://albin7debug.github.io/albin_protfolio/post/project-2/</link>
+      <pubDate>Mon, 10 May 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://albin7debug.github.io/albin_protfolio/post/project-2/</guid>
+      <description>This is a machine learning model for predicting whether the customer is eligible for a loan by a bank or not. Exploratory data analysis and model building for bank to predict whether a customer is eligible for loan or not. I have used dataset from Analytics Vidya Loan Prediction problem.
+This contains various visualisations to gain insights from the data. I have trained Logistic Regression, Decision Tree, Random Forest for predicting whether the customer is eligible for a loan by a bank or not.</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Student Perforamnce Regressor</title>
+      <link>https://albin7debug.github.io/albin_protfolio/post/project-1/</link>
+      <pubDate>Fri, 09 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://albin7debug.github.io/albin_protfolio/post/project-1/</guid>
+      <description>Predicting student performance with the demographic and socioeconomic information. The solution should contain Notebook with prediction accuracy. An informative solution should also include statistical testing and information about what contributes the prediction. I will use various prediction accuarcy such as MAE and MSE.   Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 5: Simple movie recommender system</title>
+      <link>https://albin7debug.github.io/albin_protfolio/post/project-4/</link>
+      <pubDate>Fri, 09 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://albin7debug.github.io/albin_protfolio/post/project-4/</guid>
+      <description>In this small project, I providing a basic recommendation system by suggesting items that are most similar to a particular item, in this case, movies. Keep in mind, this is not a true robust recommendation system, to describe it more accurately,it just tells you what movies/items are most similar to your movie choice.   Link to GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>
